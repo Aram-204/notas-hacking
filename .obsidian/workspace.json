@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "picoCTF/01 - General Skills/01-Lets Warm up.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "01-Lets Warm up"
             }
           }
         ]
@@ -170,9 +170,9 @@
   },
   "active": "8ce6a3323c4cb866",
   "lastOpenFiles": [
+    "README.md",
     "picoCTF/01 - General Skills/01-Lets Warm up.md",
     "Bienvenido.md",
-    "README.md",
     "picoCTF/01 - General Skills",
     "picoCTF/01 - General Skills.md",
     "plantilla.md",
