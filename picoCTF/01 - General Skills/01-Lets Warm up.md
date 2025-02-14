@@ -3,7 +3,7 @@ If I told you a word started with 0x70 in hexadecimal, what would it start with 
 
 Hints:
 1. Submit your answer in our flag format. For example, if your answer was 'hello', you would submit 'picoCTF{hello}' as the flag.
-# Solución
+# Solución 1
 Con Python
 
 ```
@@ -17,7 +17,7 @@ picoCTF{p}
 ```
 `picoCTF{p}`
 
-## Solución 2
+# Solución 2
 Usando cyberchef
 ```
 Input: 0x70
