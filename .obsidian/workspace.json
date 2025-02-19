@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/01 - General Skills/10-Nice Netcat.md",
+                "file": "picoCTF/02 - General Skills/10-First Find.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "10-Nice Netcat"
+              "title": "10-First Find"
             }
           }
         ]
@@ -170,17 +170,29 @@
   },
   "active": "8ce6a3323c4cb866",
   "lastOpenFiles": [
-    "picoCTF/01 - General Skills/08-Plumbing.md",
-    "picoCTF/01 - General Skills/10-Nice Netcat.md",
-    "picoCTF/01 - General Skills/09-Glitch Cat.md",
+    "picoCTF/02 - General Skills/09-Big Zip.md",
+    "picoCTF/02 - General Skills/10-First Find.md",
     "plantilla.md",
+    "picoCTF/02 - General Skills/08-repetitions.md",
+    "picoCTF/02 - General Skills/07-Magikarp Ground Mission.md",
+    "picoCTF/02 - General Skills/06-Tab, Tab, Attack.md",
+    "picoCTF/02 - General Skills/05-useless.md",
+    "picoCTF/02 - General Skills/04-Static ain't always noise.md",
+    "picoCTF/02 - General Skills/03-Wave a Flag.md",
+    "picoCTF/02 - General Skills/02-Strings it.md",
+    "picoCTF/02 - General Skills/01-Based.md",
+    "picoCTF/01 - General Skills/01-Lets Warm up.md",
+    "picoCTF/01 - General Skills/10-Nice Netcat.md",
+    "picoCTF/Sin nombre/desktop.ini",
+    "picoCTF/02 - General Skills",
+    "picoCTF/01 - General Skills/08-Plumbing.md",
+    "picoCTF/01 - General Skills/09-Glitch Cat.md",
     "README.md",
     "picoCTF/01 - General Skills/07-What´s a net Cat.md",
     "picoCTF/01 - General Skills/06-Obedient Cat.md",
     "picoCTF/01 - General Skills/05-First Grep.md",
     "picoCTF/01 - General Skills/03-Warmed up.md",
     "picoCTF/01 - General Skills/04-Bases.md",
-    "picoCTF/01 - General Skills/01-Lets Warm up.md",
     "picoCTF/01 - General Skills/02-2Warm.md",
     "Bienvenido.md",
     "picoCTF/01 - General Skills",
