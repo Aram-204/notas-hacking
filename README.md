@@ -39,3 +39,10 @@
 - 08-PW Crack 2
 - 09-PE Crack 3
 - 10-Serpentine
+## picoCTF Web 1
+- Insp3ct0r
+- where are the robots
+- logon
+- dont-use-client-side
+- picobrowser
+- Client-side-again
