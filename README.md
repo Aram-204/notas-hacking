@@ -40,9 +40,18 @@
 - 09-PE Crack 3
 - 10-Serpentine
 ## picoCTF Web 1
-- Insp3ct0r
-- where are the robots
-- logon
-- dont-use-client-side
-- picobrowser
-- Client-side-again
+- 01-Insp3ct0r
+- 02-where are the robots
+- 03-logon
+- 04dont-use-client-side
+- 05-picobrowser
+- 06-Client-side-again
+## picoCTF Web 2
+- 01-GET aHEAD
+- 02-Cookies
+- 03-Scavenger Hunt
+
+## picoCTF Web 3
+- 01- Irish-Name-Repo 1
+- 02-More SQLi
+- 03-JaWT Scratchpad
