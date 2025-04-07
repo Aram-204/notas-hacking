@@ -69,3 +69,15 @@
 - extensions
 - What Lies Within
 
+## Retos Web
+- Includes
+- Inspect HTML
+- IntroToBurp
+- Local Authority
+- Power Cookie
+- Roboto Sans
+- Secrets
+- SQLiLite
+- Unminify
+- WebDecode
+
