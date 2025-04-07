@@ -55,3 +55,17 @@
 - 01- Irish-Name-Repo 1
 - 02-More SQLi
 - 03-JaWT Scratchpad
+
+## picoCTF Web 4
+- MatchTheRegex
+- SOAP
+- Trickster
+- Most Cookies
+
+## Forensic 1
+- Glory of the Garden
+- So Meta
+- shark on wire 1
+- extensions
+- What Lies Within
+
