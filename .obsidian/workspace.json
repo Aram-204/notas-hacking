@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/10 - Retos Web/10-WebDecode.md",
+                "file": "picoCTF/11 - Forensic 2/05-shark on wire 2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "10-WebDecode"
+              "title": "05-shark on wire 2"
             }
           }
         ]
@@ -171,11 +171,17 @@
   "active": "65710add47211ccf",
   "lastOpenFiles": [
     "plantilla.md",
+    "picoCTF/11 - Forensic 2/05-shark on wire 2.md",
+    "picoCTF/11 - Forensic 2/04-like1000.md",
+    "picoCTF/11 - Forensic 2/03-c0rrupt.md",
+    "picoCTF/11 - Forensic 2/02-WhitePages.md",
+    "README.md",
     "picoCTF/10 - Retos Web/10-WebDecode.md",
+    "picoCTF/11 - Forensic 2/01-m00nwalk.md",
+    "picoCTF/11 - Forensic 2",
     "picoCTF/10 - Retos Web/09-Unminify.md",
     "picoCTF/10 - Retos Web/08-SQLiLite.md",
     "picoCTF/10 - Retos Web/07-Secrets.md",
-    "README.md",
     "picoCTF/10 - Retos Web/06-Roboto Sans.md",
     "picoCTF/10 - Retos Web/05-Power Cookie.md",
     "picoCTF/10 - Retos Web/04-Local Authority.md",
@@ -192,19 +198,13 @@
     "picoCTF/09 - Forensic 1/03-shark on wire 1.md",
     "picoCTF/09 - Forensic 1/01-Glory of the Garden.md",
     "picoCTF/09 - Forensic 1/02-So Meta.md",
-    "picoCTF/07 - picoCTF Web 3/03-JaWT Scratchpad.md",
     "picoCTF/09 - Forensic 1",
     "picoCTF/08 - picoCTF Web 4",
-    "picoCTF/07 - picoCTF Web 3/02-More SQLi.md",
-    "picoCTF/07 - picoCTF Web 3/01-Irish-Name-Repo 1.md",
-    "picoCTF/06 - picoCTF Web 2/02-Cookies.md",
-    "picoCTF/06 - picoCTF Web 2/01-GET aHEAD.md",
     "picoCTF/07 - picoCTF Web 3",
     "picoCTF/06 - picoCTF Web 2",
     "picoCTF/05 - picoCTF Web 1",
     "picoCTF/04 - General Skills 4",
     "picoCTF/03 - General Skills 3",
-    "picoCTF/Sin nombre/desktop.ini",
-    "picoCTF/02 - General Skills 2"
+    "picoCTF/Sin nombre/desktop.ini"
   ]
 }

@@ -81,3 +81,9 @@
 - Unminify
 - WebDecode
 
+## Forensic 2
+- m00nwalk
+- WhitePages
+- c0rrupt
+- like1000
+- shark on wire 2
