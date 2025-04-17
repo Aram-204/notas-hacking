@@ -87,3 +87,27 @@
 - c0rrupt
 - like1000
 - shark on wire 2
+
+# Examen parcial 1
+## General Skills
+- FANTASY CTF]
+- HashingJobApp
+- Python Wrangling
+- Rust fixme 1
+- Rust fixme 2
+- Rust fixme 3
+- dont-you-love-banners
+- flag_shop
+- SansAlpha
+- Specialer
+## Web
+- Bookmarklet
+- Cookie Monster Secret Recipe
+- head-dump
+- n0s4n1ty 1
+- SSTI1
+- findme
+- Java Code Analysis!?!
+- SQL Direct
+- SSTI2
+- WebSockFish
