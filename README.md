@@ -111,3 +111,18 @@
 - SQL Direct
 - SSTI2
 - WebSockFish
+
+## Forensic 3
+- WebNet0
+- Webnet1
+- Matryoshka doll
+- tunn3l_v1s10n
+- MacroHard WeakEdge
+
+## Forensic 4
+- Milkslap
+- Disk, disk, sleuth!
+- Sleuthkit Intro
+- Sleuthkit Apprentice
+- Operation Orchid
+- Operation Oni

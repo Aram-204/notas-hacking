@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/primer-examen-parcial/Web/10-WebSockFish.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "10-WebSockFish"
+              "title": "README"
+            }
+          },
+          {
+            "id": "fd4aa9f57964effc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -168,15 +183,29 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "acca0dedde1633ac",
+  "active": "fd4aa9f57964effc",
   "lastOpenFiles": [
-    "picoCTF/primer-examen-parcial/Web/09-SSTI2.md",
+    "picoCTF/12 - Forensic 4/06-Operation Oni.md",
     "plantilla.md",
+    "picoCTF/12 - Forensic 4/05-Operation Orchid.md",
+    "picoCTF/12 - Forensic 4/04-Sleuthkit Apprentice.md",
+    "picoCTF/12 - Forensic 4/03-Sleuthkit Intro.md",
+    "picoCTF/12 - Forensic 4/02-Disk, disk, sleuth!.md",
+    "picoCTF/12 - Forensic 4/01-Milkslap.md",
+    "picoCTF/11 - Forensic 3/05-MacroHard WeakEdge.md",
+    "picoCTF/11 - Forensic 3/04-tunn3l_v1s10n.md",
+    "picoCTF/11 - Forensic 3/03-Matryoshka doll.md",
+    "picoCTF/11 - Forensic 3/02-Webnet1.md",
+    "picoCTF/11 - Forensic 3/01-WebNet0.md",
+    "README.md",
+    "picoCTF/12 - Forensic 4",
+    "picoCTF/11 - Forensic 2/01-m00nwalk.md",
+    "picoCTF/11 - Forensic 3",
     "picoCTF/primer-examen-parcial/Web/10-WebSockFish.md",
+    "picoCTF/primer-examen-parcial/Web/09-SSTI2.md",
     "picoCTF/primer-examen-parcial/Web/05-SSTI1.md",
     "picoCTF/primer-examen-parcial/Web/08-SQL Direct.md",
     "picoCTF/primer-examen-parcial/Web/07-Java Code Analysis.md",
-    "README.md",
     "picoCTF/primer-examen-parcial/Web/06-findme.md",
     "picoCTF/primer-examen-parcial/Web/04-n0s4n1ty 1.md",
     "picoCTF/primer-examen-parcial/Web/03-head-dump.md",
@@ -184,27 +213,13 @@
     "picoCTF/primer-examen-parcial/Web/01-Bookmarklet.md",
     "picoCTF/primer-examen-parcial/General Skills/10-Specialer.md",
     "picoCTF/primer-examen-parcial/General Skills/09-SansAlpha.md",
-    "picoCTF/primer-examen-parcial/General Skills/08-flag_shop.md",
-    "picoCTF/primer-examen-parcial/General Skills/07-dont-you-love-banners.md",
-    "picoCTF/primer-examen-parcial/General Skills/06-Rust fixme 3.md",
-    "picoCTF/primer-examen-parcial/General Skills/05-Rust fixme 2.md",
-    "picoCTF/primer-examen-parcial/General Skills/04-Python Wrangling.md",
-    "picoCTF/primer-examen-parcial/General Skills/03-HashingJobApp.md",
-    "picoCTF/primer-examen-parcial/General Skills/02-FANTASY CTF.md",
-    "picoCTF/primer-examen-parcial/General Skills/01-Rust fixme 1.md",
     "picoCTF/primer-examen-parcial/Web",
     "picoCTF/primer-examen-parcial/General Skills",
-    "picoCTF/primer-examen-parcial/Sin título.md",
-    "picoCTF/11 - Forensic 2/05-shark on wire 2.md",
     "picoCTF/primer-examen-parcial",
-    "picoCTF/11 - Forensic 2/04-like1000.md",
-    "picoCTF/11 - Forensic 2/03-c0rrupt.md",
     "picoCTF/11 - Forensic 2",
     "picoCTF/10 - Retos Web",
     "picoCTF/09 - Forensic 1",
     "picoCTF/08 - picoCTF Web 4",
-    "picoCTF/07 - picoCTF Web 3",
-    "picoCTF/06 - picoCTF Web 2",
-    "picoCTF/05 - picoCTF Web 1"
+    "picoCTF/07 - picoCTF Web 3"
   ]
 }
