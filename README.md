@@ -126,3 +126,15 @@
 - Sleuthkit Apprentice
 - Operation Orchid
 - Operation Oni
+
+## Forensic 5
+- information
+- St3g0
+- Redaction gone wrong
+- hideme
+- Scan Surprise
+- CanYouSee
+- Secret of the Polyglot
+- RED
+- Ph4nt0m 1ntrud3r
+- flags are stepic

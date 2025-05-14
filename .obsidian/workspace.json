@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "picoCTF/Tarea3 - Forensic/10-flags are stepic.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "10-flags are stepic"
             }
           }
         ],
@@ -93,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 228.5
   },
   "right": {
     "id": "0bac834ff3c5ddd7",
@@ -185,8 +185,20 @@
   },
   "active": "fd4aa9f57964effc",
   "lastOpenFiles": [
-    "picoCTF/12 - Forensic 4/06-Operation Oni.md",
     "plantilla.md",
+    "picoCTF/Tarea3 - Forensic/10-flags are stepic.md",
+    "picoCTF/Tarea3 - Forensic/09-Ph4nt0m 1ntrud3r.md",
+    "picoCTF/Tarea3 - Forensic/02-St3g0.md",
+    "picoCTF/Tarea3 - Forensic/08-RED.md",
+    "picoCTF/Tarea3 - Forensic/07-Secret of the Polyglot.md",
+    "picoCTF/Tarea3 - Forensic/06-CanYouSee.md",
+    "picoCTF/Tarea3 - Forensic/01-information.md",
+    "picoCTF/Tarea3 - Forensic/05-Scan Surprise.md",
+    "picoCTF/Tarea3 - Forensic/04-hideme.md",
+    "picoCTF/Tarea3 - Forensic/03-Redaction gone wrong.md",
+    "README.md",
+    "picoCTF/Tarea3 - Forensic",
+    "picoCTF/12 - Forensic 4/06-Operation Oni.md",
     "picoCTF/12 - Forensic 4/05-Operation Orchid.md",
     "picoCTF/12 - Forensic 4/04-Sleuthkit Apprentice.md",
     "picoCTF/12 - Forensic 4/03-Sleuthkit Intro.md",
@@ -197,29 +209,17 @@
     "picoCTF/11 - Forensic 3/03-Matryoshka doll.md",
     "picoCTF/11 - Forensic 3/02-Webnet1.md",
     "picoCTF/11 - Forensic 3/01-WebNet0.md",
-    "README.md",
     "picoCTF/12 - Forensic 4",
     "picoCTF/11 - Forensic 2/01-m00nwalk.md",
     "picoCTF/11 - Forensic 3",
     "picoCTF/primer-examen-parcial/Web/10-WebSockFish.md",
     "picoCTF/primer-examen-parcial/Web/09-SSTI2.md",
-    "picoCTF/primer-examen-parcial/Web/05-SSTI1.md",
-    "picoCTF/primer-examen-parcial/Web/08-SQL Direct.md",
-    "picoCTF/primer-examen-parcial/Web/07-Java Code Analysis.md",
-    "picoCTF/primer-examen-parcial/Web/06-findme.md",
-    "picoCTF/primer-examen-parcial/Web/04-n0s4n1ty 1.md",
-    "picoCTF/primer-examen-parcial/Web/03-head-dump.md",
-    "picoCTF/primer-examen-parcial/Web/02-Cookie Monster Secret Recipe.md",
-    "picoCTF/primer-examen-parcial/Web/01-Bookmarklet.md",
-    "picoCTF/primer-examen-parcial/General Skills/10-Specialer.md",
-    "picoCTF/primer-examen-parcial/General Skills/09-SansAlpha.md",
     "picoCTF/primer-examen-parcial/Web",
     "picoCTF/primer-examen-parcial/General Skills",
     "picoCTF/primer-examen-parcial",
     "picoCTF/11 - Forensic 2",
-    "picoCTF/10 - Retos Web",
+    "picoCTF/Tarea2 - Retos Web",
     "picoCTF/09 - Forensic 1",
-    "picoCTF/08 - picoCTF Web 4",
-    "picoCTF/07 - picoCTF Web 3"
+    "picoCTF/08 - picoCTF Web 4"
   ]
 }
