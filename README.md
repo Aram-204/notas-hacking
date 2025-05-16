@@ -127,7 +127,7 @@
 - Operation Orchid
 - Operation Oni
 
-## Forensic 5
+## Tarea 3 Forensic
 - information
 - St3g0
 - Redaction gone wrong
@@ -138,3 +138,13 @@
 - RED
 - Ph4nt0m 1ntrud3r
 - flags are stepic
+
+## Crypto parte 1
+- The numbers
+- 13
+- Cesar
+- Easy 1
+- la cifra de
+- Tapping
+- waves over lambda 
+- interencdec
