@@ -148,3 +148,12 @@
 - Tapping
 - waves over lambda 
 - interencdec
+
+## Crypto 2
+- rsa pop quiz (exp.py)
+
+## Crypto 3
+- Mini RSA
+- Mind your Ps and Qs
+- b00tl3gRSA2
+- b00tl3gRSA3
